@@ -1,4 +1,4 @@
 server:
   port: 900
 
-name: prod
+name: prod-reset
