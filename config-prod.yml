@@ -1,1 +1,3 @@
 name: prod-reset-reset
+config:
+  info: prod-info
