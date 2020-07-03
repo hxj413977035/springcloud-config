@@ -1,4 +1,4 @@
 server:
   port: 90
 
-name: dev
+name: dev-reset
